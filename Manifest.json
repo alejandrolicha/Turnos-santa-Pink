@@ -2,7 +2,7 @@
   "name": "Turnos Santa Pink",
   "short_name": "Santa Pink",
   "description": "Agenda tu turno de forma rápida y sencilla.",
-  "start_url": ".",
+  "start_url": "/Turnos-santa-Pink/",
   "display": "standalone",
   "background_color": "#fce7f3",
   "theme_color": "#ec4899",
