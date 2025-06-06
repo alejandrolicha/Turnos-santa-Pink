@@ -1,0 +1,21 @@
+{
+  "name": "Turnos Santa Pink",
+  "short_name": "Santa Pink",
+  "description": "Agenda tu turno de forma rápida y sencilla.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fce7f3",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/ec4899/ffffff?text=SP",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/ec4899/ffffff?text=SP",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
